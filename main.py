@@ -31,3 +31,6 @@ for i in range(stopWarehouse+1, stopOrders+1):
         posOrders[count] = arrays[i]
         count += 1
     relpos += 1
+#posOrders --> Position der Kunden
+#posWarehouse --> Position der Warenhäuser 
+#1. Zeile x , 2. Zeile y
